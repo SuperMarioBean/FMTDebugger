@@ -34,5 +34,4 @@ TODO: Add long description of the pod here.
   
   s.dependency 'FMTFoundation', '~> 0.1.0'
   s.dependency 'OOMDetector', '~> 1.3'
-  s.dependency 'WBWebViewConsole', '~> 1.0.2'
 end
